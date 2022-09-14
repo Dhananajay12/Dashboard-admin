@@ -1,6 +1,7 @@
 import React from 'react';
-import PieBar from './PieBar';
+
 import image from '../Images/Jason.png'
+import PieChart from './PieChart';
 
 const Course = () => {
     return (
@@ -66,7 +67,7 @@ const Course = () => {
 
                 <div className='col-md-6 card-5'>
                     <h4 className=" font-style-hed mt-4  ">COURSE ANALYTICS </h4>
-                    <PieBar></PieBar>
+                    <PieChart></PieChart>
                 </div>
 
             </div>

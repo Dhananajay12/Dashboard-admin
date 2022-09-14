@@ -8,6 +8,7 @@ import { AiOutlineHome } from "react-icons/ai"
 import PieChart from './PieChart';
 import PieBar from './PieBar';
 
+
 const SingleUser = () => {
     return (
         <div className='container-fluid'>
@@ -91,7 +92,7 @@ const SingleUser = () => {
                         <div className='row w-100'>
                         <h2 className=" font-style-hed mt-4 mx-5 ">USER ACTIVITY</h2>
 
-                       <PieBar></PieBar>
+                       <PieChart></PieChart>
                         </div>
 
 
@@ -140,7 +141,7 @@ const SingleUser = () => {
                     </div>
                     <div className='row mx-2 mt-3 card-5'>
 
-                        <h2 className=" font-style-hed mt-4 mx-5 ">USER REVIEW</h2>
+                        <h2 className=" font-style-hed mt-4 mx-5 ">Course Time</h2>
 
 
 
