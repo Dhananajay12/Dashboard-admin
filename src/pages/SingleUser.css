@@ -1,0 +1,17 @@
+.logo-rounded {
+    background: rgb(32, 30, 192);
+  border-radius: 50px;
+  width: 80px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+.center2{
+ margin-left: 0.6rem;
+
+}
+.height2{
+  height: 600px;
+}
